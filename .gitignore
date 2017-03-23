@@ -1,0 +1,6 @@
+*.txt
+*.mod
+*.png
+/results
+/out
+/build
